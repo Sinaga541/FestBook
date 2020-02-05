@@ -1,0 +1,112 @@
+.head{
+    height: 150px;
+}
+.div-menu{
+    padding-top: 50px;
+}
+.tengah{
+    margin-top: 15px;
+    text-align: center;
+}
+.gambar{
+    height: 50px;
+    width: 50px;
+}
+.div-logo{
+    padding-top: 20px;
+}
+.img-logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.back{
+    background: linear-gradient(to bottom right, #006400, #00ff7f, #98fb98);
+}
+.list{
+    background-color: #98fb98
+}
+.tulis_Logo{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tulis_Menu{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a.menu{
+    color: black;
+    height: 100px;
+    
+}
+h3{
+    margin-left: 10px;
+}
+.kotak-harga{
+    padding-left: 500px;
+    padding-right: 10px;
+}
+.jarakK{
+    padding-left: 15px;
+}
+.harga{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.kotak-barang{
+    border:black solid 1px;
+    margin-top: 30px;
+    margin-left: 100px;
+    max-width: 1300px;
+    min-width: 1200px;
+}
+.detail{
+    padding-left: 10px;
+}
+.img{
+    width: 250px;
+    height: 200px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.total{
+    padding-top: 20px;
+    padding-left: 1000px;
+}
+.harga-total{
+    color: red;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.lebih{
+    float: right;
+}
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+label{
+	font-size: 11pt;
+}
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}

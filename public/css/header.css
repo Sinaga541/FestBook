@@ -1,0 +1,39 @@
+.head{
+    height: 150px;
+}
+.div-menu{
+    padding-top: 50px;
+}
+.tengah{
+    margin-top: 15px;
+}
+.gambar{
+    height: 50px;
+    width: 50px;
+}
+.div-logo{
+    padding-top: 20px;
+}
+.img-logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.back{
+    background: linear-gradient(to bottom right, #006400, #00ff7f, #98fb98);
+}
+.list{
+    background-color: #98fb98;
+}
+.tulis_Logo{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tulis_Menu{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a.menu{
+    color: black;
+    height: 100px;
+}
